@@ -2,4 +2,6 @@
 
 Um simples jogo da velha de navegador.
 
-Download disponivel no repositorio Jogodavelha.zip
+download disponivel no repositorio Jogo da velha.zip.
+
+extraia os arquivos.
